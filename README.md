@@ -1,8 +1,5 @@
 # Salut, moi c'est Maël (Lexdrane) 👋
 
-![Lycéen passionné](https://img.shields.io/badge/Lycéen%20passionné-blue?style=for-the-badge)
-![Open to collab](https://img.shields.io/badge/Open%20to%20collab-teal?style=for-the-badge)
-
 Futur développeur full-stack (ou sysadmin? Maybe.)
 J'adore concevoir des applications et mettre en lumière des projets en tout genre, automatiser des tâches et bidouiller mon propre lab. 
 
