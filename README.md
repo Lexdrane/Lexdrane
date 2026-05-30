@@ -7,6 +7,26 @@ J'adore concevoir des applications et mettre en lumière des projets en tout gen
 
 ---
 
+
+## 🚀 Projets & Expériences
+
+### 🎭 [Stagey](https://stagey.fr)
+*   **Rôle :** Responsable Stratégie et Numérique Interne.
+*   **Impact :** Développement initial de l'application et gestion complète de l'infrastructure technique / Couteau suisse de l'association.
+
+### 💻 [2c2t.dev](https://2c2t.dev/)
+*   Membre actif d'un petit groupe axé sur **l'innovation par l'expérimentation informatique**.
+*   Développement, tests et déploiement d'outils et de solutions sysadmin/dev.
+
+### 🛡️ Cybersécurité & Certifications
+*   **Badge Officiel :** "Passe Ton Hack d'Abord".
+*   🏅 [Voir mon badge de compétences vérifié](https://openbadgefactory.com/obv3/credentials/5966953250e81309785d3d5eb66a5ddaf2a284aa.html)
+
+### 🤖 Automatisations
+*   **[Aftertone Music](https://www.youtube.com/@AftertoneMusic) :** Création et déploiement d'un système d'automatisation complet pour la gestion et la publication de contenus sur YouTube.
+
+---
+
 ## 🛠️ Stack Technique
 
 ### Frontend & Design
