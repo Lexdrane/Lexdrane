@@ -1,9 +1,9 @@
 # Salut, moi c'est Maël (Lexdrane) 👋
 
-Futur développeur full-stack (ou sysadmin? Maybe.)
-J'adore concevoir des applications et mettre en lumière des projets en tout genre, automatiser des tâches et bidouiller mon propre lab. 
+Aspiring sysadmin 
+I love bringing all kinds of projects to life, automating tasks, and tinkering with my own homelab.
 
-> 💡 *La majorité de mes projets de code sont dans des dépôts privés*
+> 💡 *Most of my code projects live in private repositories*
 
 ---
 
@@ -11,23 +11,23 @@ J'adore concevoir des applications et mettre en lumière des projets en tout gen
 ## 🚀 Projets & Expériences
 
 ### 🎭 [Stagey](https://stagey.fr)
-*   **Rôle :** Responsable Stratégie et Numérique Interne.
-*   **Impact :** Développement initial de l'application et gestion complète de l'infrastructure technique / Couteau suisse de l'association.
+*   **Rôle :** Head of Strategy & Internal Digital Operations or "Responsable Stratégie et Numérique Interne" in French
+*   **Impact :** Led the initial development of the application and managed the entire technical infrastructure.
 
 ### 💻 [2c2t.dev](https://2c2t.dev/)
-*   Membre actif d'un petit groupe axé sur **l'innovation par l'expérimentation informatique**.
-*   Développement, tests et déploiement d'outils et de solutions sysadmin/dev.
+*   Active member of a small group focused on innovation through **hands-on experimentation.**
+*   Development, testing, and deployment of sysadmin/dev tools and solutions.
 
-### 🛡️ Cybersécurité & Certifications
-*   **Badge Officiel :** "Passe Ton Hack d'Abord".
-*   🏅 [Voir mon badge de compétences vérifié](https://openbadgefactory.com/obv3/credentials/5966953250e81309785d3d5eb66a5ddaf2a284aa.html)
+### 🛡️ Cybersecurity & Certifications 
+*   **Badge Officiel :** "Passe Ton Hack d'Abord". *(French national ethical hacking certification).*
+*   🏅 [View my verified skills badge](https://openbadgefactory.com/obv3/credentials/5966953250e81309785d3d5eb66a5ddaf2a284aa.html)
 
 ### 🤖 Automatisations
-*   **[Aftertone Music](https://www.youtube.com/@AftertoneMusic) :** Création et déploiement d'un système d'automatisation complet pour la gestion et la publication de contenus sur YouTube.
+*   **[Aftertone Music](https://www.youtube.com/@AftertoneMusic) :** Built and deployed a full automation pipeline for content management and publishing on YouTube.
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack
 
 ### Frontend & Design
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495E.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
@@ -48,14 +48,14 @@ J'adore concevoir des applications et mettre en lumière des projets en tout gen
 
 ---
 
-## 💬 Me contacter
+## 💬 Contact me
 
 | Plateforme | Lien / Contact |
 | :--- | :--- |
 | **Discord** | [@Lexdrane](https://discord.gg/k8Nj3CrC) |
 | **Mail** | [lxdr@duck.com](mailto:lxdr@duck.com) |
 | **WhatsApp** | [+33 9 72 22 44 27](http://wa.me/33972224427) |
-| **Formulaire** | [lexdrane.fr/contact](https://lexdrane.fr/contact) |
+| **Form / Formulaire** | [lexdrane.fr/contact](https://lexdrane.fr/contact) |
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lexdrane.Lexdrane" alt="visitors">
