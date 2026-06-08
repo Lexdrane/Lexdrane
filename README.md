@@ -1,4 +1,4 @@
-# Salut, moi c'est Maël (Lexdrane) 👋
+# Hello, I'm Maël (Lexdrane) 👋
 
 Aspiring sysadmin 
 I love bringing all kinds of projects to life, automating tasks, and tinkering with my own homelab.
