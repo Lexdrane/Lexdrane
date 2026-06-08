@@ -1,6 +1,6 @@
 # Hello, I'm Maël (Lexdrane) 👋
 
-Aspiring sysadmin 
+Aspiring SysAdmin passionate about infrastructure, self-hosting and automation.
 
 I love bringing all kinds of projects to life, automating tasks, and tinkering with my own homelab.
 
@@ -8,19 +8,18 @@ I love bringing all kinds of projects to life, automating tasks, and tinkering w
 
 ---
 
-
-## 🚀 Projets & Expériences
+## 🚀 Projects & Experiences
 
 ### 🎭 [Stagey](https://stagey.fr)
-*   **Rôle :** Head of Strategy & Internal Digital Operations or "Responsable Stratégie et Numérique Interne" in French
-*   **Impact :** Led the initial development of the application and managed the entire technical infrastructure.
+*   **Role :** Head of Strategy & Internal Digital Operations or "Responsable Stratégie et Numérique Interne" in French
+*   **Impact :** Led the early development of the platform and designed, deployed and maintained the technical infrastructure.
 
 ### 💻 [2c2t.dev](https://2c2t.dev/)
 *   Active member of a small group focused on innovation through **hands-on experimentation.**
 *   Development, testing, and deployment of sysadmin/dev tools and solutions.
 
 ### 🛡️ Cybersecurity & Certifications 
-*   **Badge Officiel :** "Passe Ton Hack d'Abord". *(French national ethical hacking certification).*
+*   **Badge Officiel :** "Passe Ton Hack d'Abord"
 *   🏅 [View my verified skills badge](https://openbadgefactory.com/obv3/credentials/5966953250e81309785d3d5eb66a5ddaf2a284aa.html)
 
 ### 🤖 Automatisations
@@ -51,7 +50,7 @@ I love bringing all kinds of projects to life, automating tasks, and tinkering w
 
 ## 💬 Contact me
 
-| Plateforme | Lien / Contact |
+| Where ? | Link / Contact |
 | :--- | :--- |
 | **Discord** | [@Lexdrane](https://discord.gg/k8Nj3CrC) |
 | **Mail** | [lxdr@duck.com](mailto:lxdr@duck.com) |
